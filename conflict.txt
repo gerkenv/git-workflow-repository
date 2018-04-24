@@ -1,0 +1,3 @@
+conflict local
+second local line
+local line 3
