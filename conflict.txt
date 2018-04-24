@@ -1,0 +1,3 @@
+conflict remote
+second remote line
+remote line 3
