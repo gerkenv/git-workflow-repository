@@ -1,3 +1,3 @@
 conflict remote-3
-second line of 'change' branch
+second line of 'change + master' branch, revision 8
 remote-6 line 3
